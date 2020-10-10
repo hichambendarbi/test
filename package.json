@@ -1,5 +1,5 @@
 {
-  "name": "test-technique-coralie-ebele",
+  "name": "test-technique-c-e",
   "version": "1.0.0",
   "description": "Test technique pour le poste full-stack developpeur",
   "main": "index.js",
@@ -16,5 +16,14 @@
     "jsonwebtoken": "^8.5.1",
     "mongoose": "^5.10.8",
     "nodemailer": "^6.4.13"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hichambendarbi/test.git"
+  },
+  "bugs": {
+    "url": "https://github.com/hichambendarbi/test/issues"
+  },
+  "homepage": "https://github.com/hichambendarbi/test#readme"
 }

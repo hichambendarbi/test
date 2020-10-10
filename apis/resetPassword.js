@@ -16,7 +16,7 @@ secure: false,
 requireTLS: true,
 auth: {
 user: "bendarbiApp@gmail.com",
-pass: 'bendarbImoutabari34555666'
+pass: "mot de passe email d envois"
 }, tls: {
 rejectUnauthorized: false
 }
